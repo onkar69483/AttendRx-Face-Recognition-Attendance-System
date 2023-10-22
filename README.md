@@ -2,9 +2,8 @@
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit_Diagram_bb.png)
+<img src="Circuit_Diagram_bb.png" width="500">
 
-## Prototype 
+## Prototype
 
-![Project Image](ProjectImg.jpg)
-
+<img src="ProjectImg.jpg" width="300" height = "auto" >
