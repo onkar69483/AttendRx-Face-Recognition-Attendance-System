@@ -1,5 +1,9 @@
 # AttendRx-Face-Recognition-Attendance-System
 
+## Block Diagram
+
+<img src="AttendRx.drawio.png">
+
 ## Circuit Diagram
 
 <img src="Circuit_Diagram_bb.png" width="500">
