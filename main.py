@@ -61,7 +61,7 @@ def markAttendance(name):
 
 
 encodelistknown = find_encodings(images)
-print('Encoding Complete!')
+print('Encoding Complete!!')
 
 while True:
     # Capture an image from ESP32-CAM
