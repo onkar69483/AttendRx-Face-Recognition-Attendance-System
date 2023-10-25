@@ -1,6 +1,6 @@
 # AttendRx-Face-Recognition-Attendance-System
 
-## Block Diagram
+## Block Diagram of Prototype
 
 <img src="AttendRx.drawio.png">
 
