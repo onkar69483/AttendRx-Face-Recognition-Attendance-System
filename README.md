@@ -62,8 +62,3 @@ The integration of the ESP32-CAM module, `AttendRx.ino` code, and the Face Recog
 - **[@onkar69483](https://github.com/onkar69483)** - Onkar Mendhapurkar
 - **[@Praneetm1403](https://github.com/Praneetm1403)** - Praneet Mahendrakar
 - **[@prabhat4002](https://github.com/prabhat4002)** - Prabhat Shankar
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
