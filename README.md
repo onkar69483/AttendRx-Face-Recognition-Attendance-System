@@ -31,11 +31,15 @@ The `ESP32Cam.py` Python script, located in the `FaceRecognition_Code_AttendRx` 
 
 ### How It Works
 
-1. **ESP32-CAM Integration (`AttendRx.ino`)**:
+0. **Video Preview**
+
+   https://github.com/onkar69483/AttendRx-Face-Recognition-Attendance-System/assets/61963755/10132f15-a69a-4f67-bb51-405e13502336
+
+2. **ESP32-CAM Integration (`AttendRx.ino`)**:
    - The `AttendRx.ino` code initializes the ESP32-CAM module, establishes Wi-Fi connectivity, and sets up the camera.
    - It communicates with the AttendRx system, allowing the system to interact with the ESP32-CAM module for capturing images.
 
-2. **Face Recognition Script (`ESP32Cam.py`)**:
+3. **Face Recognition Script (`ESP32Cam.py`)**:
    - The `ESP32Cam.py` Python script fetches data from the ESP32-CAM module by establishing a connection through Wi-Fi.
    - It processes the captured images using face recognition algorithms to identify students' faces.
    - The script interacts with the AttendRx system to manage attendance based on recognized faces.
