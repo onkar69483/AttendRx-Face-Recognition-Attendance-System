@@ -1,6 +1,9 @@
 # AttendRx: Smart Face Recognition-Based Attendance System
 
-![image](https://github.com/onkar69483/AttendRx-Face-Recognition-Attendance-System/assets/61963755/3961f0af-ca7c-485f-9b09-423d8ae78c94)
+<div>
+  <img src="https://github.com/onkar69483/AttendRx-Face-Recognition-Attendance-System/assets/61963755/3961f0af-ca7c-485f-9b09-423d8ae78c94" alt="Image 1" width="400" height="auto"/>
+  <img src="https://github.com/onkar69483/AttendRx-Face-Recognition-Attendance-System/assets/61963755/af3a6a49-e795-42bc-b403-711398fd050b" alt="Image 2" width="400" height="auto"/>
+</div>
 
 ## Overview
 
