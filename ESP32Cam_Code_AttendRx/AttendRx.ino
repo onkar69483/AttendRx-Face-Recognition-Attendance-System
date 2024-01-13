@@ -11,8 +11,8 @@ typedef void (*Demo)(void);
 int demoMode = 0;
 int counter = 0;
 
-static const char* WIFI_SSID = "Galaxy";
-static const char* WIFI_PASS = "prem3562951413";
+static const char* WIFI_SSID = "SSID";
+static const char* WIFI_PASS = "password";
 
 esp32cam::Resolution initialResolution;
 
